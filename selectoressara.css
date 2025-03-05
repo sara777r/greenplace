@@ -1,0 +1,109 @@
+@charset "utf-8";
+.bg-amarillopastel {
+    background-color: #FFF1BA;
+}
+.textoverde {
+    color: #FF0000;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.bg-bodycolor {
+    background-color: rgba(255,251,235,1.00);
+}
+
+.bolaforma {
+    border-radius: 20px;
+}
+.especial {
+    position: relative;
+    top: 18px;
+    z-index: 1000;
+}
+.especial2 {
+    position: relative;
+    top: -44px;
+    z-index: 1000;
+}
+.especial3 {
+    position: relative;
+    top: 0px;
+    z-index: 1200;
+}
+.textoprecio {
+    font-style: normal;
+    font-weight: 300;
+    color: #18431D;
+}
+.textoabajo {
+    color: #226714;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.formaborde {
+    border-radius: 48px;
+}
+.tectocorrido {
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 400;
+    color: #092A09;
+    font-size: 15px;
+}
+.container.especial2 .row .col-xl-6.tectocorrido {
+}
+.bordes {
+    border-radius: 45px;
+}
+
+.hhh {
+}
+.textooo {
+    font-size: 14px;
+    color: rgba(72,96,28,1.00);
+    font-family: "Nunito Medium";
+}
+.margin {
+    margin-left: 686px;
+    margin-top: 147px;
+
+
+}
+.verdeoscuro {
+    background-color: rgba(72,96,28,1.00);
+}
+.bajarhoja {
+    margin-bottom: -46px;
+
+
+
+}
+
+
+
+.imagenmover {
+    top: 22px;
+}
+
+
+
+.hola {
+    color: #48601C;
+    font-family: "Nunito Black";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+.verdecito {
+    background-color: #48601C;
+}
+.moverboton {
+    z-index: 2000;
+    margin-right: -593px;
+    margin-bottom: -70px;
+    margin-top: -124px;
+
+}
+.moverfoto {
+
+}
